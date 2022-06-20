@@ -15,3 +15,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhtvQrvXZtsWRlbcbrlFWJPVfQqqBGPfqrxPpSRsfDnPCJLXkKTrXmdJLNCpsKJbQWtDr)
 </div>
+
+![Snake animation](https://github.com/carolinekaorishinotsuka16/carolinekaorishinotsuka16/blob/output/github-contribution-grid-snake.svg)
